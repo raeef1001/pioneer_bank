@@ -1,0 +1,29 @@
+body{
+    padding: 200px;
+}
+.login{
+    margin-top: 150px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 30px;
+}
+#dashboard{
+    display: none;
+}
+.status{
+ 
+    border-radius: 10px;
+    padding: 30px;
+    margin: 60px;
+    color: white;
+}
+#deposit{
+    background-color: rgba(0, 128, 0, 0.767);
+}
+#withdraw{
+    background-color: rgba(255, 0, 0, 0.808);
+
+}
+#balance{
+    background-color: rgba(11, 168, 116, 0.842);
+}
